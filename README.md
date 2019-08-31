@@ -50,4 +50,5 @@ instead.
 
 [1]: https://enterprise.github.com
 [2]: docs/requirements.md#github-enterprise-version-requirements
-[3]: https://enterprise.github.com/support/
+[3]: https://enterprise.github.com/suppor.github
+https://Lazymuxhost.github.com
